@@ -3,3 +3,4 @@
 3- https://www.w3schools.com/ ===> For Learnning All Programming Languages
 4- https://getbootstrap.com/ ===> Bootstrap WebSite
 5- https://caniuse.com/ ===> For Know Support Rules In CSS ( CSS Prefixes )
+6- https://bennettfeely.com/clippy/ ===> For clip-path in CSS

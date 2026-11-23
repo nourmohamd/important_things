@@ -29,6 +29,7 @@ Front End:
 19 - JavaScript Atom Grammar
 20 - Bracket Pair Colorizer 2
 21 - indent-rainbow
+22 - EditorConfig
 ============================
 Back End:
 ----------------------------
